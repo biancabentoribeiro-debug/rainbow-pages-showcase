@@ -22,6 +22,7 @@ export default {
         primary: {
           DEFAULT: "hsl(var(--primary))",
           foreground: "hsl(var(--primary-foreground))",
+          hover: "hsl(var(--primary-hover))",
         },
         secondary: {
           DEFAULT: "hsl(var(--secondary))",
@@ -56,6 +57,16 @@ export default {
           "accent-foreground": "hsl(var(--sidebar-accent-foreground))",
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
+        },
+        // Pride colors
+        pride: {
+          red: "hsl(var(--pride-red))",
+          orange: "hsl(var(--pride-orange))",
+          yellow: "hsl(var(--pride-yellow))",
+          green: "hsl(var(--pride-green))",
+          blue: "hsl(var(--pride-blue))",
+          purple: "hsl(var(--pride-purple))",
+          pink: "hsl(var(--pride-pink))",
         },
       },
       borderRadius: {

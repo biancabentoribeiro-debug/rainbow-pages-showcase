@@ -1,0 +1,883 @@
+
+
+
+
+CAPA
+CONTRACAPA
+Equipe responsável 
+Agradecimentos
+Sumário
+Lista de abreviaturas 
+Apresentação
+Introdução
+Metodologia
+Resultados e discussões 
+Conclusão
+
+
+
+
+
+
+
+Equipe Responsável
+
+
+Desenvolvimento e Implementação
+Coordenação, Relatoria, Questionário, Aplicação e Implementação 
+Carlos Vinicius Ribeiro Pinheiro
+Mayra Ribeiro Pinheiro
+ 
+Projeção
+Núcleo Esperança Garcia de Estudos de Gênero da UFABC
+Roberta Peres
+Alberto Canseco
+Bruna Mendes
+
+Revisão 
+Ivo Hirata 
+
+Data, Design e T.I.
+Bianca Bento
+Renan Moraes Neves 
+
+
+
+Agentes de Pesquisa e Apoio:
+
+Marcelo Gil
+Robson de Carvalho
+Fran Filho
+Allan Fernandes
+Mari Black
+Johnny- Conselho LGBT Mauá 
+Samara Akino
+Ida Feldman
+Paulo Araújo
+Raí Neres
+Thamyres Visgueira
+Dih Cine
+Arthur França  Sindicato dos Metalúrgicos 
+Christiane Laporta (SerTrans SCS)
+Caroline Carvalho
+Meire Nogueira 
+Danilo IBRAT 
+Elisangela Moura
+Fran Rocha 
+Karen Estevam
+Anacélia Ramos
+Mayara Mayumi
+Coordenadora da CREAS
+Juliana Thomaz
+Mike (MOB)
+Eric (MOB)
+Rafael Ensinas
+Rakyllyane  Rios 
+Marie Claire
+Karine Calvo
+Raiza Sassim
+Jardel Teixeira 
+Zaila Luz
+Ema do Morro
+Raphael Ali
+Felipe Leonardo
+Ananias Andrade 
+Clovis Girardi
+Gel Antônio 
+Comissões da Diversidade – OAB
+Juliana Alves 
+Edna Lopes
+Iggor Moreira
+Jaqueline Faro
+Fernanda Darcie
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Agradecimentos
+A revista da Pesquisa Censitária LGBTQIAPN+ expressa profundo reconhecimento:
+
+- Nada desta História teria sido escrita se não fosse pelo nosso fato histórico Neon Cunha;
+- À eterna Deputada Érica Malunguinho, ao Gabinete Mandata Quilombo e à Frente Parlamentar LGBT, pelo compromisso histórico com as pautas de diversidade e equidade;
+- Ao Consórcio Intermunicipal do Grande ABC, em especial à Maria Gracelly e ao Aroaldo, secretário executivo, pela dedicação institucional.
+- Ao GT LGBT, que recentemente se consolidou como Coordenadoria Regional de Políticas da Diversidade Sexual, fortalecendo a articulação intermunicipal;
+- À Secretaria de Justiça e Cidadania e à Coordenadoria Estadual de Políticas da Diversidade do Governo do Estado de São Paulo, nominalmente, ao caro Rafael Calumby, pela parceria e apoio no desenvolvimento desta iniciativa.
+
+
+LISTA DE ABREVIATURAS
+
+
+LGBTQIAPN+ - Lésbicas, Gays, Bissexuais, Travestis e pessoas Transexuais, Queer, Intersexo, Assexuais, Pansexuais, Neutros e outras identidades;
+ABC - Forma mais simples de se referir à região das cidades: Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema, Mauá, Rio Grande da Serra e Ribeirão Pires;
+Grande ABC - Abreviação para se referir à região das cidades: Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema, Mauá, Rio Grande da Serra e Ribeirão Pires;
+CIGABC - Consórcio  Intermunicipal do Grande ABC
+COPEL - Comissão Permanente de Licitações
+CEL - Comissão Especial de Licitação
+OSAFPCAI - Organização Social Amalgamar Formação Popular Consultoria Advocacy e Interseccionalidade
+GT - Grupo de Trabalho
+DH - Direitos Humanos
+SA - Santo André
+SBC - São Bernardo do Campo
+SCS - São Caetano do Sul
+D - Diadema
+M - Mauá
+RP - Ribeirão Pires
+RG - Rio Grande da Serra
+SP - São Paulo
+NEG - Núcleo de Estudo de Gênero “Esperança Garcia”
+UFABC - Universidade Federal do ABC
+UNIFESP - Universidade Federal de São Paulo
+PROPES - Pró-Reitoria de Pesquisa da UFABC
+PROEX - Pró-Reitoria de Extensão da UFABC
+OSC - Organização da Sociedade Civil
+OSCIP - Organização da Sociedade Civil de Interesse Público
+ONG - Organização Não Governamental (OSC)
+UAIC - Unidade de Assuntos Institucionais e Comunitários
+ONU - Organização das Nações Unidas
+DH - Direitos Humanos
+CAPS - Centro de Atenção Psicossocial
+CAD Único - Cadastramento Unificado de Programas Sociais
+CENTRO POP - Espaço de acolhimento para pessoas em situação de rua
+CIPH - Construção de Instrumentos de Pesquisa Híbrida
+PIMS - Pactuação dos Instrumentos com os Movimentos Sociais
+CEDP - Construção de Estratégias de Divulgação da Pesquisa
+MET -  Metodologia
+IV -  Instrumentos de Verificação 
+ECD - Estratégias de Comunicação/Divulgação
+PQ -  Protótipo de Questionários 
+PC - Perfil e Comportamento; 
+CPP - Cidadania e Participação Política 
+V-LGBT - Vitimização LGBTfóbica
+CRPD - Coordenadoria Regional de Políticas da Diversidade 
+BD - Banco de Dados
+SRQ - Sistematização dos Resultados dos Questionários
+TAGF - Transcrição e Análise dos Grupos Focais
+CRAS - Centro de Referência de Assistência Social
+CREAS - Centro de Referência Especializado de Assistência Social
+CAPS - Centros de Atenção Psicossocial
+OAB - Ordem dos Advogados do Brasil
+CTA - Centro de Testagem e Aconselhamento
+ASIPT - Ambulatório de Saúde Integral para Pessoas Trans
+SerTrans - Ambulatório Trans SCS
+DiaTrans - Ambulatório Trans de Diadema 
+Travessias - Ambulatório Trans Santo André
+
+
+
+
+
+
+
+
+
+
+“A cor dessa cidade sou eu,
+O canto dessa cidade é meu.”
+
+MERCURY, Daniela. O Canto da Cidade. Álbum O Canto da Cidade.1992
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APRESENTAÇÃO	12
+INTRODUÇÃO	13
+METODOLOGIA	14
+RESULTADOS E DISCUSSÕES	16
+EIXO 1: PERFIL SOCIOECONÔMICO E CONDIÇÕES DE VIDA	17
+1.1 Panorama Geral da Distribuição Etária	17
+1.2. Idiossincrasias Regionais do Grande ABC	18
+1.2.1 Composição por cidade	18
+1.2.2 Principais fluxos internos	19
+1.1.3 Migração para o ABC	20
+1.1.4 Região industrial e de migração	21
+1.2.1 Juventude periférica e mobilidade	21
+1.2.2 Educação e visibilidade	21
+1.2.3 Contradições do envelhecimento LGBT	21
+1.3 Variáveis Socioeconômicas e Condições de Vida	22
+1.3.1 Empregabilidade e Geração de Renda	23
+1.3.2 Representatividade de Crianças e Adolescentes	23
+1.3.3 Representatividade de Idosos e Populações Vulneráveis	23
+1.3.4 Endossexo × Intersexo:	24
+1.3.5 PCDs (Pessoa com Deficiência)	24
+1.4. Recomendações Analíticas	25
+1.4.1 Políticas por faixa etária (base 18+):	25
+1.5 Leitura interseccional regional:	25
+1.5.1 Mulheres lésbicas (cis+trans) por raça	25
+1.5.2 Homens gays (cis+trans) por raça	25
+1.5.3 Bissexuais por identidade de gênero	26
+1.5.4 Juventude é mais bi/pan?	26
+1.5.5 Pessoas trans: são mais hétero, homo ou bi?	27
+1.6 Empregabilidade e Geração de Renda	29
+1.6.1 Leituras críticas (ABC, trabalho e estudo)	31
+1.6.2 O que isso implica?	34
+EIXO 2 Participação política e social	35
+2.1 Engajamento geral	35
+2.2 Quem mais participa/conhece? (por grupos populacionais)	35
+2.3 “Nome social”: uso e respeito (foco em pessoas trans)	36
+2.4 Idade e engajamento	36
+2.5 “Quem aparece” quando há vínculo? (autodeclaração aberta – top menções)	37
+2.6 Leituras por raça dentro dos “cis”	37
+EIXO 3 VITIMIZAÇÃO DE LGBTFOBIA	41
+3.1Quem sofre mais (incidência por grupo)	41
+3.1.1 Por identidade de gênero	41
+3.1.2 Por raça/cor (atenção a Ns pequenos)	41
+3.1.3 Por orientação sexual (normalizada)	41
+3.1.4 Ataca a pedra na Geni: Intersecções que mais concentram violência (n ≥ 30)	42
+3.1.5 Leitura etária (18–24 | 25–39 | 40+)	42
+3.1.6 Onde acontece mais (por identidade — % entre vítimas)	43
+3.1.7 Leituras-chave de local	43
+3.2 Interpretações e implicações	44
+3.2.1 Quem mais sofre (incidência de ao menos 1 violência)	44
+3.2.2 Por orientação sexual (normalizada)	45
+3.2.3 Intersecções críticas (n ≥ 30)	45
+3.3 Que tipo de violência pesa mais por grupo	45
+3.4 Onde ocorre mais (entre vítimas)	46
+3.5 Quem mais denuncia e busca ajuda (entre vítimas)	46
+4. Leituras-chave (ação pública e advocacy)	47
+CONCLUSÃO	48
+REFERÊNCIAS BIBLIOGRÁFICAS	50
+
+
+
+
+
+LISTA DE GRÁFICOS E IMAGENS:
+1.1 Gráfico: De Onde Você Nasceu?
+1.2 Gráfico: Onde você mora atualmente?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+APRESENTAÇÃO
+A Pesquisa Censitária LGBTQIAPN+ do Grande ABC representa um marco inédito na produção de conhecimento sobre diversidade sexual e de gênero em âmbito nacional a partir de um recorte de objeto regionalizado. Fruto de uma articulação entre sociedade civil organizada, poder público e universidades, sua realização nasce do reconhecimento da necessidade urgente de dados sistematizados que subsidiem políticas públicas, programas sociais e iniciativas culturais voltadas à garantia de direitos da população LGBTQIAPN+.
+O trabalho foi desenvolvido e executado sob a coordenação da Rede Amalgamar, a partir de recurso provisionado para o Consórcio Intermunicipal do Grande ABC, via Secretaria de Justiça e Cidadania do Estado de São Paulo e da Coordenadoria Estadual de Políticas da Diversidade Sexual. O recurso é oriundo de emenda parlamentar enviada pela Ex-Deputada Estadual Erica Malunguinho, primeira pessoa trans e negra eleita no Brasil. A pesquisa contou com o envolvimento de dezenas de agentes e lideranças comunitárias, pesquisadores e colaboradores institucionais, a pesquisa buscou alcançar todos os sete municípios da região: Santo André, São Bernardo do Campo, São Caetano do Sul, Diadema, Mauá, Ribeirão Pires e Rio Grande da Serra.
+Ao apresentar os resultados e análises aqui reunidos, a revista se coloca como instrumento de registro histórico, de legitimação das vozes e experiências LGBTQIAPN+ e de fortalecimento das lutas coletivas por cidadania plena, equidade e justiça social. O grande gargalo que gera vícios de origem de embasamento das políticas públicas é doravante a ausência de dados e evidências científicas que viabilizem recursos quali/quantitativos de delimitar, direcionar e avaliar processos e iniciativas, portanto esta pesquisa incide nesta necessidade de produzir soluções.
+
+
+
+
+INTRODUÇÃO
+A ausência de dados oficiais e regulares sobre a população LGBTQIAPN+ no Brasil constitui um dos maiores entraves à formulação e implementação de políticas públicas efetivas. Historicamente invisibilizadas pelos censos demográficos nacionais, as pessoas LGBTQIAPN+ permanecem à margem de estatísticas governamentais, o que reforça processos de exclusão, preconceito e vulnerabilidade social.
+Nesse contexto, o Grande ABC — região metropolitana marcada por sua diversidade cultural, histórica e industrial — emerge como território estratégico para a realização de um levantamento censitário pioneiro. A iniciativa nasce a partir de uma emenda parlamentar e foi consolidada mediante processo licitatório, assegurando transparência e legitimidade institucional.
+A proposta da pesquisa vai além da simples quantificação. Seu objetivo é revelar um retrato multidimensional das vidas LGBTQIAPN+, abrangendo questões de identidade, orientação, condições socioeconômicas, experiências de violência, acesso a serviços públicos, saúde, educação, cultura, trabalho e participação política. Dessa forma, o estudo visa não apenas diagnosticar, mas também fornecer subsídios concretos para a construção de políticas regionais e estaduais que respondam às demandas específicas dessa população.
+
+
+
+
+
+
+
+
+METODOLOGIA 
+A metodologia da Pesquisa Censitária LGBTQIAPN+ do Grande ABC foi concebida para articular rigor científico e participação comunitária, de modo a produzir dados que refletissem de forma fidedigna a realidade vivida pela população LGBTQIAPN+. Inspirada nos referenciais de gênero e interseccionalidade (CRENSHAW, 1989; AKOTIRENE, 2019; BUTLER, 2018), a proposta metodológica estruturou-se em três eixos de investigação — Perfil e Condições de Vida, Participação Política e Cidadania e Vitimização e LGBTfobia —, sendo complementada por etapas de capacitação e validação institucional.
+Um dos aspectos inovadores deste processo foi a escolha de agentes de campo oriundos da própria comunidade, que não se limitaram ao papel de pesquisadores acadêmicos, mas atuaram como articuladores sociais. Esses agentes desempenharam funções estratégicas, como a divulgação da pesquisa em territórios de difícil acesso, a criação de vínculos de confiança com respondentes e a mediação cultural para assegurar uma linguagem inclusiva e respeito à diversidade. Essa aproximação possibilitou alcançar segmentos historicamente invisibilizados por metodologias tradicionais, fortalecendo a legitimidade do levantamento.
+O primeiro eixo, Perfil e Condições de Vida, levantou informações sociodemográficas e materiais, incluindo identidade de gênero, orientação sexual, uso de nome social, raça/cor, faixa etária, escolaridade, situação de trabalho, renda, moradia, mobilidade urbana e acesso a políticas sociais. A intenção foi revelar a diversidade interna do grupo LGBTQIAPN+ e expor desigualdades interseccionais atravessadas por classe, raça, gênero e território.
+O segundo eixo, Participação Política e Cidadania, investigou as formas de engajamento social e político da população LGBTQIAPN+, compreendendo desde a atuação em movimentos sociais, coletivos culturais e organizações até a inserção em conselhos municipais, conferências e audiências públicas. Foram ainda analisadas as percepções sobre a efetividade das políticas de diversidade e as barreiras enfrentadas, como burocracia, preconceito e invisibilização institucional.
+O terceiro eixo, Vitimização e LGBTfobia, mapeou experiências de violência e discriminação, incluindo agressões físicas, psicológicas, sexuais e simbólicas, bem como práticas de exclusão em espaços familiares, escolares, de trabalho, saúde, lazer e segurança pública. Também foram observados os canais de denúncia disponíveis e a percepção sobre sua eficácia, permitindo identificar grupos mais vulnerabilizados, como pessoas trans e travestis, lésbicas negras, jovens e pessoas em situação de rua.
+Além da estrutura em eixos, a pesquisa seguiu etapas metodológicas complementares, como a capacitação de pesquisadores comunitários, a aplicação híbrida dos questionários (online e presencial), o monitoramento constante das respostas, a análise estatística e qualitativa integrada e a devolutiva social dos resultados. Esse processo assegurou que a pesquisa fosse, ao mesmo tempo, um exercício de produção acadêmica e uma ferramenta política de transformação social, enraizada no protagonismo da própria comunidade LGBTQIAPN+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+RESULTADOS E DISCUSSÕES
+Os resultados da Pesquisa Censitária LGBTQIAPN+ do Grande ABC representam não apenas a consolidação de um amplo levantamento estatístico e qualitativo, mas também a materialização de um processo participativo que buscou traduzir a diversidade e a complexidade das experiências vividas pela população LGBTQIAPN+ da região. A análise dos dados, articulada em torno dos três eixos metodológicos — Perfil Socioeconômico e Condições de Vida, Participação Política e Cidadania, e Vitimização e LGBTfobia —, permite compreender de forma integrada os múltiplos atravessamentos de classe, raça, gênero, território e identidade de gênero que estruturam as desigualdades, mas também as estratégias de resistência e construção de cidadania.
+Este capítulo não se limita à apresentação dos números levantados; ao contrário, busca interpretá-los à luz das narrativas coletadas em grupos focais e encontros temáticos, bem como dos contextos sociais e institucionais em que se inscrevem. Os resultados, portanto, são discutidos de maneira a evidenciar as tensões entre a realidade concreta da população e as políticas públicas existentes, apontando tanto avanços quanto lacunas persistentes. O diálogo entre dados quantitativos e qualitativos permitiu não apenas identificar tendências gerais, mas também destacar situações específicas de vulnerabilidade e de protagonismo político, oferecendo subsídios consistentes para a formulação de políticas regionais mais inclusivas e eficazes.
+A seguir, cada eixo da pesquisa será apresentado e discutido de forma detalhada, destacando-se os principais achados, desafios e perspectivas identificados ao longo do processo.
+
+
+
+
+EIXO 1: PERFIL SOCIOECONÔMICO E CONDIÇÕES DE VIDA
+Dando o nome e botando a cara no sol:
+Mais de 2.000 pessoas responderam ao questionário se identificando com nome próprio (nome civil, completo ou parcial).
+	Isso inaugura algo inesperado dentro das previsões e deduções, haja vista que, estrategicamente, e atendendo a pedidos realizados, uma pesquisa em que o sigilo/anonimato são respeitados e cuja não-obrigatoriedade de identificar-se refletiu-se com efeito contrário, ou seja, as pessoas sumária e majoritariamente se identificaram nominalmente (nome civil/registro/social) 
+
+Uso do nome social.
+289 pessoas declararam uso de nome social (mesmo que algumas também tenham informado nome civil em outra parte do formulário). Isso representa mais de 10% das respostas absolutas/totais.
+
+1.1 Panorama Geral da Distribuição Etária
+A base para análise contém 2.232 respondentes (idades a partir de 18 anos). 
+18–24 anos: 727 pessoas (32,6%)
+25–29 anos: 499 pessoas (22,4%)
+20–29 anos (somado): 1.037 pessoas (46,5%)
+30–39 anos (30–34 + 35–39): 649 pessoas (29,1%)
+40 anos ou mais: 357 pessoas (16,0%)
+50 anos ou mais: 114 pessoas (5,1%)
+A população LGBTQIAPN+ do Grande ABC que respondeu é majoritariamente jovem-adulta, com quase metade entre 20–29 anos e cerca de três em cada dez entre 30–39. Isso está em linha com padrões nacionais de participação social do segmento, com marcas regionais específicas.
+
+
+1.1Gráfico: De Onde Você Nasceu?
+
+1.2. Idiossincrasias Regionais do Grande ABC
+Incidência de respostas por cidade:
+São Bernardo do Campo: 598 (29,1%) – maior número de respostas
+Santo André: 586 (28,5%)
+Diadema: 362 (17,9%)
+Mauá: 217 (10,7%)
+São Caetano do Sul: 175 (8,6%)
+Ribeirão Pires: 68 (3,4%)
+Rio Grande da Serra: 18 (0,9%) – menor número de respostas
+
+
+1.2.1 Composição por cidade 
+Disposição de respostas de pessoas que nasceram e vivem no mesmo município; nascido em outro município do ABC que mora atualmente, e quem nasceu fora do ABC e hoje mora na região):
+São Bernardo do Campo: 54,2% nascidos no próprio município · 31,6% de outro município do ABC · 34,3% nascidos fora do ABC
+Santo André: 50,9% no próprio · 31,4% outro ABC · 29,9% fora do ABC
+Diadema: 40,1% no próprio · 20,2% outro ABC · 39,8% fora do ABC
+Mauá: 44,2% no próprio · 39,6% outro ABC · 18,4% fora do ABC
+São Caetano do Sul: 41,7% no próprio · 16,6% outro ABC · 41,7% fora do ABC
+Ribeirão Pires: 58,8% no próprio · 25,0% outro ABC · 16,2% fora do ABC
+Rio Grande da Serra: 72,2% no próprio · 16,7% outro ABC · 11,1% fora do ABC
+
+1.2 Gráfico: Onde você mora atualmente?
+
+1.2.2 Principais fluxos internos 
+Compreende-se aqui o fluxo de pessoas nascidas numa cidade do ABC que moram em outra cidade do ABC especificamente:
+São Bernardo → Santo André: 114
+Santo André → São Bernardo: 58
+Santo André → Mauá: 46
+São Bernardo → Diadema: 44
+São Caetano → São Bernardo: 28
+São Bernardo → São Caetano: 26
+
+1.1.3 Migração para o ABC 
+Reflete-se aqui o número de adultos nascidos fora do ABC que moram no ABC: 650
+• Por cidade de residência: SBC 205, Santo André 175, Diadema 144, São Caetano 73, Mauá 40, Ribeirão Pires 11, Rio Grande da Serra 2.
+Naturalidades mais comuns entre quem nasceu fora do ABC e hoje mora no ABC:
+São Paulo (capital): 332
+Minas Gerais (cidades diversas): 22
+Santos: 15
+Campinas: 10
+Guarulhos: 8
+Nota-se que São Bernardo do Campo e Santo André concentram cerca de 58% dos residentes adultos e têm forte mix de nativos vindos de outros Estados (em diferentes gerações anteriores). 
+Diadema combina alta imigração externa (≈40%) com base nativa relevante (40%).
+Mauá destaca mobilidade intra-ABC muito alta (≈40% dos moradores nasceram em outro município do ABC).
+São Caetano tem elevada imigração externa (≈42%) e menor circulação interna.
+Ribeirão Pires e Rio Grande da Serra são mais “endógenas” (maioria nascida no próprio município) e com baixos volumes absolutos de respostas.
+
+
+1.1.4 Região industrial e de migração
+Desde os anos 1950, o ABC se consolidou como pólo metalúrgico/automotivo e receptor de fluxos migratórios. A cultura fabril, masculinizada e heteronormativa, dificultou a visibilidade intergeracional. Isso ajuda a explicar a baixa presença de 50+ (5,1%) na amostra 18+ (efeitos de silenciamento social, subnotificação e menor inserção em redes digitais de pesquisa).
+
+1.2.1 Juventude periférica e mobilidade
+O pico em 20–29 dialoga com uma juventude digitalizada (formulários on-line) e com o engajamento político-cultural de coletivos LGBT em universidades e equipamentos culturais (UFABC, USCS etc.). Em Mauá, Diadema e São Bernardo, coletivos, slams e cenas artísticas favorecem a auto identificação.
+
+1.2.2 Educação e visibilidade
+Alta densidade de instituições de ensino técnico e superior (UFABC, UNIFESP, FATECs/ETECs) impulsiona letramento identitário entre jovens. O bloco 18–24 (32,6%) reflete essa trajetória de acesso a políticas de nome social, permanência e expansão universitária dos últimos 15–20 anos.
+
+1.2.3 Contradições do envelhecimento LGBT
+A baixa participação 60+ aponta para isolamento e invisibilidade histórica — fenômeno conhecido nacionalmente — demandando ações de saúde, assistência e convivência voltadas a idosos LGBT (CRAS/CREAS, atenção básica, saúde mental).
+
+1.3 Variáveis Socioeconômicas e Condições de Vida
+A análise das variáveis socioeconômicas e das condições de vida da população LGBTQIAPN+ do Grande ABC constitui um eixo central da pesquisa, uma vez que permite compreender de forma detalhada a inserção social desse grupo em dimensões fundamentais como identidade, trabalho, educação, renda, moradia e acesso a serviços. A partir do levantamento realizado, buscou-se traçar um perfil sociodemográfico abrangente, contemplando aspectos como identidade de gênero, orientação sexual, uso de nome social, raça/cor, faixa etária e escolaridade. Esses dados, articulados, possibilitam não apenas evidenciar a diversidade interna da comunidade, mas também mapear desigualdades interseccionais atravessadas por classe, gênero, raça e território.
+O estudo incluiu ainda a investigação das condições materiais de existência, abordando situação de trabalho, rendimentos, acesso a políticas sociais, mobilidade urbana e condições de moradia. Esses indicadores revelam tanto a presença de avanços no reconhecimento e inclusão social da população LGBTQIAPN+ quanto as persistentes barreiras estruturais que limitam a garantia plena de direitos. Ao cruzar tais variáveis, foi possível identificar padrões de exclusão e vulnerabilidade que se sobrepõem a marcadores sociais da diferença, produzindo realidades distintas no interior da própria comunidade.
+A análise das condições de vida, portanto, não se restringe à descrição quantitativa dos dados, mas busca interpretá-los em diálogo com as narrativas coletadas em grupos focais e encontros temáticos. Essa abordagem integrada permitiu destacar, de um lado, as desigualdades que incidem de forma mais intensa sobre segmentos específicos — como pessoas trans e travestis, jovens, mulheres lésbicas negras e migrantes — e, de outro, os mecanismos de resistência, solidariedade e redes de apoio comunitário que emergem como estratégias de enfrentamento às adversidades.
+1.3.1 Empregabilidade e Geração de Renda
+A centralidade 18–29 (46,5%) indica foco em necessidade de políticas de empregabilidade, renda e proteção educacional/universitária
+1.3.2 Representatividade de Crianças e Adolescentes
+A existência de 268 adolescentes (15–17) — excluídos da análise — revela vulnerabilidade em contextos escolar e doméstico, reforçando a importância de protocolos regionais contra bullying e violência intrafamiliar.
+1.3.3 Representatividade de Idosos e Populações Vulneráveis
+A sub-representação 50+ não indica ausência real, mas subnotificação e barreiras de acesso/visibilidade — crucial para desenho de políticas de envelhecimento LGBT.
+A Sub-representação de pessoas em situação de rua ou acolhimento temporário se dá por causa da sobrecarga enfrentada pelos profissionais de Assistência Social, Técnicos, Agentes comunitários e Psicólogos acerca da extrema demanda de atendimentos, recorrentemente, diagnosticado por todas as cidades, haja vista que foram feitas visitas e encontros formativos, grupos focais em CREAS e CRAS das 7 cidades e é notória a invisibilidade. Salientamos que é necessário um esforço contínuo, como apontado homogeneamente por todos os profissionais da necessidade de permanência da pesquisa haja vista que existe um espaçamento muito grande entre a busca por atendimento e a ida presencial nos dispositivos por parte desta população, que devido às políticas de zeladoria urbana e brutalidade policial, existe uma dispersão desta população por todo território que inviabiliza a continuidade dos atendimentos e até mesmo o preenchimento de respostas.
+
+
+
+1.3.4 Endossexo × Intersexo:
+Endossexo: 2.107 (94,4%)
+
+
+Intersexo: 124 (5,6%)
+É evidenciado pela coleta, tratamento e análise de dados que a maior parte das pessoas podem conhecer a palavras intersexo e saber que não são, e deduzir ser endossexo, mas é notório o desconhecimento destas terminologias, se não pela inclusão da sigla I (Intersexo) e as recentes mobilizações contra a invisibilidade, mas percebe-se o desconhecimento e a dedução de ser endossexo a partir de saber e não reconhecer-se intersexo.
+
+
+1.3.5 PCDs (Pessoa com Deficiência)
+268 pessoas — 12,0% do universo adulto (2.231).
+
+TEA (CID F84) – 141 (48,3%) 
+Física – 56 (19,2%) 
+Visual (ex.: baixa visão/cegueira, CID-H54) – 37 (12,7%)
+TDAH (CID F90) – 29 (9,9%)
+Múltipla – 21 (7,2%)
+Auditiva (CID H90/H91) – 10 (3,4%)
+Intelectual (CID F70–F79) – 8 (2,7%)
+
+
+O maior grupo dentro das PCD é psicossocial, com destaque para TEA e TDHA; em seguida aparecem física e visual. E Psicossocial / saúde mental (inclui TEA/TDAH etc.) – 169 pessoas (57,9% das PCD).
+
+
+1.4. Recomendações Analíticas
+O perfil traz a marca histórica do ABC (luta sindical, movimento estudantil, redes culturais) que estrutura a organização comunitária LGBT.
+1.4.1 Políticas por faixa etária (base 18+):
+18–24: proteção educacional, primeiro emprego, estágios/tecnologia, cultura e participação social.
+25–39: trabalho e renda, saúde integral do adulto, moradia e segurança pública.
+40+: rastreios e cuidados crônicos; 50+ e 60+: combate ao isolamento, centros de convivência e protocolos de acolhimento.
+
+
+1.5 Leitura interseccional regional:
+Incorporar classe, raça e território: juventudes negras e periféricas vivenciam vulnerabilidades adicionais.
+Mapeamento intraurbano: tendência de maior concentração jovem em Mauá/Diadema, e maior longevidade em Santo André/São Caetano.
+Entrevistas com pessoas 50+/60+ para recuperar trajetórias invisibilizadas.
+Etnografias curtas em slams/coletivos para entender modos de sociabilidade e circulação territorial.
+1.5.1 Mulheres lésbicas (cis+trans) por raça
+Brancas: 232 (66,9% do grupo; 10,4% da base)
+Negras (preta+parda): 108 (31,1% do grupo; 4,8% da base)
+Amarelas: 3 (0,9%) • Indígenas: 0 • Outras/ND: 4 (1,2%)
+Entre mulheres lésbicas: cis 96,5% (335) e trans 3,5% (12).
+1.5.2 Homens gays (cis+trans) por raça
+Brancos: 388 (59,6% do grupo; 17,4% da base)
+Negros (preta+parda): 245 (37,6% do grupo; 11,0% da base)
+Amarelos: 6 (0,9%) • Indígenas: 2 (0,3%) • Outras/ND: 10 (1,5%)
+Entre homens gays: cis 87,1% (567) e trans 12,9% (84).
+
+De fato, nas contribuições de respostas, o número de Indígenas 25–34 são maioria (52,4%) dentro dos grupos racializados excluindo negros, pardos e brancos. Esta maior contribuição pode refletir maior autonomia digital e redes urbanas migrantes do ABC; jovens indígenas (18–24) ainda são 23,8%, mas provavelmente sub-reportados por barreiras familiares/escolares.
+Em amarelas(os/es), a maior fatia 18–24 (37,5%) indica que juventudes asiáticas conectadas a universidades e coletivos culturais tendem a participar mais; ainda assim, invisibilidade histórica e sub-representação permanecem (sobretudo para pessoas amarelas trans e NB — apenas 6 trans e 6 NB).
+1.5.3 Bissexuais por identidade de gênero
+Mulher cis: 355 (15,9% da base)
+Mulher trans: 20 (0,9%)
+Homem cis: 108 (4,8%)
+Homem trans: 50 (2,2%)
+Não-binárie: 56 (2,5%)
+(Trans não especificado/Outros/ND: 23)
+Indígenas (18+): 21 pessoas
+Indígenas LGBT+ (orientação não-hetero e/ou identidade trans/NB): 21
+Entre indígenas: trans = 12; não-binárie = 1; demais são LGBQ+ cis.
+1.5.4 Juventude é mais bi/pan?
+Percentuais dentro de cada faixa etária (presença, podendo haver múltiplas marcas):
+Bissexual: 18–24: 40,2% | 25–34: 26,6% | 35–44: 17,1% | 45+: 7,4%.
+Pansexual: 18–24: 10,9% | 25–34: 10,2% | 35–44: 6,5% | 45+: 3,0%.
+
+Sim — as pessoas de 18–24 concentram as maiores proporções de identidade bi/pan. Este esclarecimento se deflagra devido aos movimentos sociais, culturais, estéticos e políticos, a acessibilidade de debates em voga em redes sociais, mídia, maior acesso à educação sexual. Tal gama de conhecimentos baseia maior fluidez das novas gerações em relação à quantidade e variações de pessoas com quem se relacionam, isso reflete em variáveis como: se tem vínculos românticos ou não, se são sexuais ou assexuados, intímos ou não, familiares ou não, virtuais ou presenciais. Isso define na contemporaneidade, menor incidência de identidade monolíticas ou essencializadas. Parte desta juventude passa por reflexões e críticas que desnaturalizam as relações de poder / sexualidade / prazer / afetividade / intimidade.
+
+
+1.5.5 Pessoas trans: são mais hétero, homo ou bi?
+Entre pessoas trans (mulher trans, homem trans, trans(ns); N=282):
+Contagem por presença (pode somar >100% por múltiplas respostas):
+Hétero: 106 (37,6%)
+Bi: 77 (27,3%)
+Pan: 44 (15,6%)
+Homo (gay/lésbica): 33 (11,7%)
+Outras (queer/assexual/demissexual): 63 (22,3%)
+Distribuição exclusiva (quando a pessoa marcou só uma orientação; 149 dos 282):
+Hétero 69 (24,5%), Bissexual 33 (11,7%), Pansexual 17 (6,0%), Gay 16 (5,7%), Queer 8 (2,8%), Assexual 4 (1,4%), Demissexual 2 (0,7%), Lésbica 0.
+
+
+Entre a população trans, os dados indicam que a identificação como heterossexual aparece de forma predominante, seguida pelas categorias bissexual e pansexual, enquanto a autodeclaração como “homossexual” aparece em menor proporção. Esse padrão revela a persistência de concepções mais tradicionais de identidade sexual, que se refletem em parte da construção coletiva e social desse grupo, especialmente quando observamos o recorte geracional. Os cruzamentos com as variáveis de idade — excluindo-se pessoas menores de 18 anos — evidenciam que as pessoas trans mais velhas tendem a se identificar majoritariamente como heterossexuais, enquanto as gerações mais jovens revelam maior disposição para se identificar como bissexuais, pansexuais ou mesmo recusando categorizações fixas.
+Esse contraste pode ser interpretado à luz da crítica foucaultiana sobre a constituição das identidades sexuais enquanto dispositivos históricos de saber-poder. Para Foucault (1988), as categorias “heterossexual” e “homossexual” emergem na modernidade como classificações normativas que naturalizam modos de vida e os inscrevem em regimes de verdade, produzindo identidades que se tornam referências aparentemente estáveis. Assim, a maior adesão de pessoas trans mais velhas à identidade heterossexual pode ser lida como efeito da força histórica desses dispositivos, que operam por meio da normatização social.
+Por outro lado, conforme argumenta Butler (2003; 2018), as identidades sexuais e de gênero não são essências fixas, mas construções performativas que podem ser reiteradas ou subvertidas. Ao observarmos que as gerações mais jovens de pessoas trans expressam maior fluidez em suas concepções afetivas e sexuais, percebe-se a materialização dessa “desnaturalização” de identidades monolíticas, rompendo com a lógica binária e essencialista. Essa disposição fenomenológica de recusar justaposições fixas abre espaço para novas formas de sociabilidade e corporeidade, marcadas por performances mais plurais e dissidentes em relação às normas hegemônicas de sexualidade.
+Assim, os resultados quantitativos da pesquisa, em diálogo com as teorias críticas de Foucault e Butler, apontam para uma tensão geracional: de um lado, a permanência de concepções mais normativas entre as pessoas trans mais velhas; de outro, a emergência de práticas e discursos mais fluidos entre as mais jovens, que tendem a subverter generalizações identitárias e a inscrever novos modos de ser e existir no campo sexual e afetivo.
+1.6 Empregabilidade e Geração de Renda
+CLT no total: 978 pessoas (≈ 43,7% dos adultos).
+Por raça (contagem | taxa dentro do grupo racial):
+ • Branca: 569 | 41,4%
+ • Negra (preta+parda): 385 | 48,3%
+ • Amarela: 14 | 41,2% • Indígena: 10 | 47,6%
+ ⮕ Na amostra, a taxa de CLT entre pessoas negras supera a de brancas (48,3% vs. 41,4%). O volume absoluto segue maior entre brancas (base populacional maior na pesquisa) mas que se evidencia diferencialmente com o recorte de pessoas em empregos formais.
+Por identidade de gênero (contagem | taxa no próprio grupo):
+ • Homem cis: 409 | 50,7%
+ • Mulher cis: 368 | 42,2%
+ • Homem trans: 79 | 48,5%
+ • Mulher trans: 37 | 30,8%
+ • Não-binárie: 52 | 28,0%
+Orientação entre os CLT: mais comuns gay/homossexual, depois bi/pan, depois lésbica.
+
+Estudantes — perfil completo
+Total: 445 (≈ 19,9% dos adultos).
+Idade: 18–24 anos = 351 (≈ 79% dos estudantes); 25–34 = 81; 35+ = 13.
+ ⮕ Jovens (18–24) são majoritariamente bi/pan (≈55% entre 18–24), seguidos de gay; entre 25+ cresce a proporção gay, com lésbicas estáveis em ambos.
+Raça: Brancas 305 (68,5%) • Negras 129 (29,0%) • Outras 11 (2,5%).
+ ⮕ O recorte sugere maior acesso educacional das pessoas brancas na amostra.
+Gênero: Mulher cis 207, Homem cis 144, Não-binárie 43, Homem trans 27, Mulher trans 9.
+Orientação (toda a população estudante): bi/pan 236, gay 131, lésbica 57 (demais categorias somam 21).
+
+Trabalho por conta própria (MEI/PJ) e autônomos
+MEI/PJ (micro/empresárie): 258 pessoas.
+ • Top perfis: mulher cis branca (87), homem cis branco (70), mulher cis negra (49), homem trans negro (18), homem cis negro (14).
+ • Orientação mais frequente no MEI/PJ: bi/pan, depois gay e lésbica.
+Autônomos e informais também aparecem em volume alto (ver tabelas anexas); nesses estratos cresce a presença negra e trans/NB comparativamente ao CLT.
+
+Servidor(a) público(a)
+Total: 205.
+ • Por gênero: mulher cis 98, homem cis 85, homem trans 7, não-binárie 6, mulher trans 0.
+ • Por raça: branca 128 (62%), negra 74 (36%), amarela 2, indígena 1.
+ ⮕ Baixa incidência trans, com alguns homens trans no quadro; mulheres trans ausentes no serviço público da amostra.
+
+Benefício social (BPC/LOAS/transferência)
+Taxa por raça: negra 18,3% > branca 13,1% (amarela 11,8%; indígena 16,7%).
+Taxa por gênero: mulher trans 30,8%, não-binárie 21,4%, homem trans 19,0%, mulher cis 16,9%, homem cis 10,9%.
+ ⮕ Trans e NB dependem mais de benefício social na amostra; negras acima de brancas.
+
+1.6.1 Leituras críticas (ABC, trabalho e estudo)
+CLT “ligeiramente mais alto” entre pessoas negras na amostra
+	No ABC, a base industrial/serviços e a idade da amostra (predomínio jovem-adulto) ajudam a entender porque a taxa de CLT entre negros supera a de brancos, mesmo que o volume absoluto de brancos em CLT siga maior. Isso não invalida as desigualdades salariais e de carreira conhecidas: aponta um recorte setorial/geracional local. Mas tal resultado inesperado e um pouco paradoxal é reflexo de um forte movimento negro na região, vinculado aos movimentos sindicais e sociais/culturais das cidades, com reflexos aos esforços de décadas de programas de fortalecimento à juventude negra por meio de formações profissionalizantes, trainees e projetos comunitários.
+Estudantes brancos são maioria
+ 	O peso de brancos entre estudantes (≈ 68,5%) indica assimetria de acesso (ensino médio/técnico/superior) e capital familiar. Entre 18–24, bi/pan domina, sinalizando maior fluidez sexual nas coortes mais novas (efeito geração + redes digitais + ambiente universitário do ABC).
+Tal realidade se faz verídica também quando pensamos no acesso de pessoas trans cotistas nas universidades federais, onde tal política atinge majoritariamente pessoas não negras (tendo maior número de amarelos e brancos), de classe média e que não cursaram o ensino médio. 
+Sendo inegável a mudança estrutural socioeconomica a partir da entrada e conclusão dos estudos por jovens negros que cursaram o ensino superior ainda doravante os desdobramentos e reflexos de algumas poucas décadas de políticas de cotas que reforcem a entrada/ingresso. Porém, tal fato é refratado e requer cuidado redobrado e verificado nesta pesquisa, pois a política ainda deve ser problematizada devido a dificuldade de permanência e conclusão dos estudos devido a fronteiras financeiras que, em muitos casos, faz com que haja interrupção de seus estudos para buscar trabalho formal.
+Trans e NB: inserção desigual
+Mulher trans aparece com menor CLT (30,8%) e maior dependência de benefício; homem trans tem CLT próximo a homens cis na amostra, mas renda e estabilidade podem divergir (sugerido por maior taxa de benefício que homens cis).
+No serviço público, presença de homens trans e NB, ausência de mulheres trans — barreiras de acesso/concursos e ambiente institucional importam.
+Micro/empreendedorismo (MEI/PJ)
+Concentra mulheres cis brancas e homens cis brancos; há mulheres cis negras e homens trans negros com presença relevante — recorte que pede crédito, formalização assistida e redes de apoio específicas.
+Subnotificação de trabalho sexual e população em situação de rua
+0 registros explícitos de prostituição/trabalho sexual e 5 casos de situação de rua. Dado o contexto do ABC (pólos de prostituição e vulnerabilidade), isso não é “ausência”, é subnotificação:
+ • Estigma + autoproteção (medo de discriminação) → não declaração.
+• Canal de coleta (on-line, redes) atinge menos pontos de contato (consultórios na rua, CRAS/CREAS, CAPS AD, SAE/CTA).
+Recomendação: manter campo “ocupação — confidencial” com roteiro seguro, reforçar parceria com saúde/assistência (busca ativa), e coletar off-line em serviços de porta de entrada.
+A sub-representatividade de pessoas prostitutas e profissionais do sexo foi identificada mesmo diante da circulação ativa da pesquisa em territórios de prostituição nas ruas do Grande ABC, sobretudo nos municípios de São Bernardo do Campo e Santo André. Ainda que tenham sido realizados grupos focais em casas e espaços de cafetinagem, a presença marcante de contextos de exploração sexual e de fluxos migratórios recentes — envolvendo, em muitos casos, pessoas recém-chegadas às cidades — gerou sentimentos de medo e insegurança quanto à autodeclaração. Nesses casos, as agentes de pesquisa respeitaram integralmente a manifestação da pessoa respondente, o que impactou na constituição do presente relatório, embora tal quadro não reflita a dimensão real da população atuante nesses territórios. Torna-se, portanto, necessária a formulação de estratégias mais eficazes de aproximação, contato e estímulo à resposta, considerando também que parte significativa das pessoas entrevistadas não possuía documentação civil, fator que reforça sua condição de invisibilidade institucional.
+A aplicação do questionário contou ainda com o apoio de profissionais dos Centros de Referência Especializados de Assistência Social (CREAS) e dos Centros de Referência de Assistência Social (CRAS), que apontaram dificuldades estruturais para apoiar plenamente a pesquisa. Uma das principais limitações refere-se à ausência de campos específicos para orientação sexual e identidade de gênero nos formulários integrados dos sistemas de assistência social e saúde, incluindo o Cadastro Único (CadÚnico). Técnicos e gestores relataram que a inexistência dessas nomenclaturas nas ferramentas oficiais de registro contribui para a invisibilidade da população LGBTQIAPN+, além de limitar a capacidade de identificação e de planejamento de políticas públicas adequadas. Assim, a pesquisa foi reconhecida por esses profissionais como um instrumento fundamental de visibilização e diagnóstico, ainda que o contexto de ausência de registros institucionais tenha impactado o alcance das respostas e a disposição à autodeclaração.
+1.6.2 O que isso implica?
+Emprego:
+ • Para mulheres trans e NB: agências de intermediação no ABC, capacitação + cotas em programas municipais/regionais e acompanhamento pós-colocação.
+ • Para negros em CLT: foco em progressão (qualificação, certificações técnicas, políticas de promoção interna). 
+Para pessoas cis e trans negras em geral: Permanência estudantil e cursinhos preparatórios para fomentar o ingresso de Jovens e Adultos no Ensino Superior depois da idade ou incluindo quem está em Ensino Médio.
+ • MEI/PJ negros e trans: microcrédito orientado, contabilidade solidária e compras públicas com metas de diversidade.
+Educação:
+ • Retenção de estudantes negros/trans/NB (auxílio permanência, saúde mental, nome social).
+ • Ponte escola-trabalho: estágios para 18–24 com cláusulas antidiscriminação e monitoramento.
+Proteção social:
+ • Ampliar busca ativa para benefícios junto a trans/NB e mulheres trans, que apresentam maiores taxas de dependência.
+ • Integração entre saúde e assistência para alcançar rua e trabalho sexual (onde a subnotificação é evidente).
+
+
+
+
+
+
+
+
+EIXO 2 Participação política e social 
+2.1 Engajamento geral 
+Parada SP: 59,8% já participaram.
+Paradas municipais do ABC: ~0,1% declararam (muito baixo; ver nota metodológica ao fim).
+Eventos/serviços LGBTQIAPN+ no ABC: 36,0%.
+Conhecem a Lei Estadual 10.948/01: 82,9%.
+Conhecem alguma legislação municipal LGBTQIAPN+: 16,8%.
+Conhecem o Decreto estadual do nome social (55.588/2010): 76,8%.
+Conhecem Conselhos (estadual/municipais): 13,4%.
+Vínculo: sindicatos 9,5% | coletivos 13,7% | ONGs 9,2%.
+2.2 Quem mais participa/conhece? (por grupos populacionais)
+(considerando combinações identidade de gênero colapsada e raça; só reporto “campeões” com n ≥ 30 para evitar efeito de amostra muito pequena)
+Parada SP (quem mais participa):
+• Homens cis, Brancos (64,0%). Muito próximos: Homens trans (67,5%) e Não-bináries+ (55,6%).
+Paradas municipais do ABC (baixíssima autodeclaração):
+• Entre os grupos com n≥30, o maior índice ainda foi Mulheres cis, Negras (~0,4%) — sinal claro de sub-registro (ver notas).
+Conhecimento da Lei Estadual 10.948/01:
+• Alto em quase todos os grupos; acima da média entre Mulheres trans (inclui travesti) (86,7%) e Homens trans (84,0%).
+Conhecimento de legislação municipal LGBTQIAPN+:
+• Homens trans (38,7%) e Mulheres trans (inclui travesti) (33,3%) têm as maiores taxas.
+Conhecimento do Decreto do Nome Social:
+• Homens trans (92,0%) lideram, seguidos de Não-bináries+ (80,4%) e Mulheres trans (77,5%).
+Conhecimento de Conselhos (estadual/municipais):
+• Destaque para Mulheres trans (29,2%) e Homens trans (23,9%).
+Vínculo com coletivos/ONGs/sindicatos:
+• Coletivos: Homens trans (18,4%) e Não-bináries+ (15,4%).
+• ONGs LGBTQIAPN+: Mulheres trans (16,7%) e Homens trans (11,0%).
+• Sindicatos: maior entre Homens cis (12,4%) e Mulheres cis (11,2%).
+Recorte rápido “cis x trans x n-binárie+”
+Trans apresentam os maiores níveis relativos de: conhecer legislação municipal (36,4%), conhecer conselhos (26,1%) e engajar em serviços/eventos do ABC (66,4%).
+Cis concentram a maior parte absoluta da amostra; apresentam boa taxa de conhecimento da lei estadual (83,7%), mas engajamento ABC menor (31,1%).
+Não-bináries+ ficam no meio em quase todos os indicadores e acima da média em vínculo com coletivos (15,4%).
+2.3 “Nome social”: uso e respeito (foco em pessoas trans)
+Entre pessoas trans, 83,0% indicaram usar nome social.
+Respeito ao nome social entre trans que usam: “sempre/quase sempre” ~36,6%, “às vezes” 61,7%, “raramente/nunca” ~1,7%.
+Entre cis, ~27,8% marcaram algum grau de “respeito” — isso tende a refletir uso de “nome social” no sentido amplo (apelidos/nome de preferência), não necessariamente o recorte jurídico voltado a pessoas trans.
+2.4 Idade e engajamento
+Parada SP por faixa: 18–24: 47,2% | 25–39: 61,8% | 40+: 72,2%.
+ → Participação cresce com a idade (maturidade cívica, redes de sociabilidade mais antigas etc.).
+A presença em eventos/serviços no ABC é elevada no segmento trans em todas as idades (sinal de busca por políticas/serviços e redes de apoio).
+
+
+2.5 “Quem aparece” quando há vínculo? (autodeclaração aberta – top menções)
+Coletivos: Casa Neon Cunha; ABCDs; Viva a Diversidade; Rede Amalgamar; IBRAT; Movimento de Moradia Olga Benário; PRISMA/UFABC; Ocupa Sapatão ABC.
+ONGs: Casa Neon Cunha; Viva a Diversidade; IBRAT; Rede Amalgamar; entre outras locais.
+Sindicatos: Sindserv (municípios do ABC), APEOESP, SINDPD, Sintetel, Sindicato dos Metalúrgicos do ABC, SINPEEM.
+2.6 Leituras por raça dentro dos “cis”
+Mulheres cis (Negra vs Branca): taxas próximas em Lei Estadual (85,0% vs 80,1%). Em vínculo sindical e coletivo, as diferenças são pequenas e variam por cidade/setor.
+Homens cis (Negra vs Branca): padrões semelhantes; homens cis brancos participam mais da Parada SP (64,0%).
+Em resumo: quem mais “puxa” engajamento formal (conhecer normas, conselhos e acionar serviços do ABC) são as pessoas trans e não-bináries; já a Parada SP tem alta participação em homens cis e cresce com idade. O conhecimento da lei estadual é alto em toda a amostra, mas legislações municipais e conselhos ainda são pouco conhecidos fora do segmento trans.
+1) O que mais aparece como uso/engajamento
+Indicadores de uso/conhecimento na amostra 18+:
+Participou da Parada SP: 59,8%
+Participou de eventos/serviços LGBTQIAPN+ no ABC: 36,0%
+Vínculo com coletivos: 13,7% | ONGs: 9,2% | Sindicatos: 9,5%
+Conhece Lei Estadual 10.948/01: 82,9%
+Conhece Decreto do Nome Social: 76,8%
+Conhece legislações municipais LGBTQIAPN+: 16,8%
+Conhece Conselhos (estadual/municipal): 13,4%
+ONGs/Coletivos mais citados (menções abertas, consolidando grafias):
+Casa Neon Cunha, Viva a Diversidade, Rede Amalgamar, IBRAT, Ocupa Sapatão ABC, PRISMA/UFABC, Letras Pretas, Fórum de Mulheres do ABC.
+ → Esses nomes concentram a procura espontânea quando a pessoa precisa de acolhimento, orientação, atividades comunitárias, apoio jurídico/psicossocial e articulação política.
+1) Quem mais usa/conhece (cruzando marcadores)
+Trans e não-bináries puxam o uso qualitativo dos dispositivos:
+Conhecimento municipal (leis da cidade) é mais alto em Trans (~33–39%, dependendo do subgrupo) do que nos demais (média geral 16,8%).
+Conhecimento de Conselhos também é maior em Trans (até 29,2% em mulheres trans/travestis; 23,9% em homens trans).
+Vínculo com coletivos/ONGs: Homens trans (coletivos 18,4%), Mulheres trans (ONGs 16,7%) e Não-bináries+ (coletivos 15,4%) lideram.
+Uso/validação do nome social (Trans): 83% declaram usar. Entre quem usa, 36,6% dizem ser respeitado sempre/quase sempre; 61,7% às vezes — mostra dependência real de políticas de nome social em serviços.
+Cis (maior volume absoluto da amostra) mantém bons níveis de Lei Estadual (≈83%), porém menores em legislação municipal e conselhos; vínculo sindical é ligeiramente maior em Homens cis (12,4%).
+Parada SP aumenta com a idade (18–24: 47,2% → 25–39: 61,8% → 40+: 72,2%); Homens cis e Homens trans são os que mais comparecem.
+Recorte racial (exemplos ilustrativos)
+Entre Mulheres cis, Negras e Brancas têm níveis próximos em Lei Estadual; diferenças pequenas em sindicato/coletivo.
+Em vários indicadores de engajamento “institucional”, Trans negras aparecem proporcionalmente bem (sobretudo em coletivos/ONGs), o que reafirma busca ativa por proteção e rede.
+2) O que está subutilizado ou pouco conhecido (gaps)
+Paradas municipais do ABC: a autodeclaração ficou ~0,1% — claramente sub-marcada (problema de preenchimento/etiquetagem do campo).
+Leis municipais e Conselhos: baixa difusão fora do segmento Trans. Há um vão entre alto conhecimento da Lei Estadual (82,9%) e baixo conhecimento municipal (16,8%).
+ONGs/Coletivos com foco específico (ex.: PCDs, pessoas 60+, imigrantes) aparecem menos em menções, sugerindo oferta local limitada ou baixa capilaridade de comunicação.
+3) Por que políticas “de baixa incidência” ainda são necessárias
+Mesmo quando a incidência declarada parece pequena, a necessidade é elevada porque:
+Respeito ao nome social ainda é oscilante (maioria “às vezes”): requer formação continuada em saúde, educação, assistência e segurança pública.
+Trans e não-bináries são quem mais aciona dispositivos institucionais: isso sinaliza dependência de políticas públicas para garantir direitos básicos (documentação, saúde, proteção social).
+Baixo conhecimento municipal limita o acesso a benefícios/serviços locais (ex.: fluxos de denúncias, retificação em cadastros, editais de fomento, conselhos/OUVIDORIAS).
+Grupos subnotificados (trabalho sexual, população em situação de rua, migrantes, PCDs com deficiências invisíveis) não somem por não aparecerem na planilha; eles precisam de busca ativa e protocolos específicos.
+3) O que os dados sugerem para aprimorar oferta e aproveitamento
+a) Comunicação e porta de entrada
+Campanhas municipais (CRAS/CREAS, UBS/ESF, escolas e CEUs) sobre Lei Estadual, Decreto do Nome Social e leis locais.
+
+
+Materiais curtos e digitais (foco 18–29 anos) + oficinas presenciais com Trans/Não-bináries como multiplicadores(as).
+b) Qualificação da rede
+Formação continuada de servidoras(es) em acolhimento e nome social (saúde, educação, assistência, segurança).
+Protocolos intersetoriais: quando uma pessoa aciona ONG/Coletivo, fluxo rápido para serviços públicos (saúde mental, defensoria, assistência).
+c) Capilaridade territorial
+Descentralizar ações para Mauá, Diadema, São Bernardo (juventudes periféricas/procura maior por coletivos) e consolidar rotas com ONGs locais (ex.: Casa Neon Cunha, Rede Amalgamar, Viva a Diversidade).
+Mutirões itinerantes (documentação/retificação, testagem/PrEP/PEP, cadastro social) em praças e eventos culturais.
+d) Políticas de nicho com alta necessidade
+Trabalho e renda para Trans/Não-bináries (parcerias com SENAI/Fatecs/UFABC; vagas afirmativas; incubação de MEIs).
+PCDs LGBTQIAPN+: acessibilidade comunicacional, intérpretes, adequação arquitetônica; mapeamento ativo de CID/deficiências invisíveis.
+Idosos(as) LGBTQIAPN+: grupos de convivência, atenção básica e saúde mental com foco em isolamento.
+e) Dados e governança
+Corrigir campos de Paradas municipais (etiquetas claras; permitir multimarcar cidade + SP);
+Conselhos e Leis municipais: criar painel público com linguagem simples (o que é, como acessar, onde denunciar).
+Monitoramento trimestral de: taxa de uso de nome social nos serviços, participação em conselhos, e encaminhamentos ONG→rede pública.
+
+
+
+EIXO 3 VITIMIZAÇÃO DE LGBTFOBIA
+2.231 respondentes adultos/as.
+1.661 relataram ao menos um episódio de violência/discriminação (74,5%).
+Tipos mais frequentes (entre vítimas): verbal 89%, psicológica 53%, física 18,6%, institucional 14,4%, sexual 14,1%.
+Onde mais acontece (entre vítimas; múltiplas respostas): família/lar ~52%, via pública/transporte ~52%, escola/universidade ~43%, trabalho ~38%, internet/redes ~14%, comércio/lazer ~11%, saúde ~7%, religião ~4%, segurança pública ~4%.
+Após sofrer violência (entre vítimas): 6,4% fizeram denúncia formal; 7,8% buscaram apoio informal; 62,9% não buscaram nenhum tipo de ajuda; 4,2% declararam “não sabia que era possível denunciar”.
+3.1Quem sofre mais (incidência por grupo)
+Métrica = % que declarou ter sofrido alguma violência.
+3.1.1 Por identidade de gênero
+Mulher trans (inclui travesti): 93,3% (n=127)
+Homem trans: 93,9% (n=180)
+Não-binárie+: 82,6% (n=178)
+Homem cis: 77,3% (n=677)
+Mulher cis: 67,5% (n=1.069)
+3.1.2 Por raça/cor (atenção a Ns pequenos)
+Indígena: 95,2% (n=21) ⟵ amostra pequena
+Amarela/Asiática: 77,5% (n=40)
+Branca: 74,6% (n=1.372)
+Negra (preta+parda): 74,2% (n=791)
+Outra/NS: 42,9% (n=7) ⟵ amostra muito pequena
+3.1.3 Por orientação sexual (normalizada)
+Lésbica: 78,1% (n=654)
+Gay/Homossexual: 77,2% (n=262)
+Bi/Pan: 76,7% (n=943)
+Queer/Outra: 76,1% (n=92)
+Assexual/Arromântica: 73,7% (n=19) ⟵ amostra pequena
+Heterossexual: 49,0% (n=252)
+3.1.4 Ataca a pedra na Geni: Intersecções que mais concentram violência (n ≥ 30)
+Mulher trans, branca: 100% (n=49) | Mulher trans, negra: 88,9% (n=63)
+Homem trans, negro: 94,8% (n=58) | Homem trans, branco: 92,6% (n=94)
+Não-binárie+, negra: 81,0% (n=79) | Não-binárie+, branca: 79,6% (n=93)
+Homem cis, branco: 80,7% (n=374) | Homem cis, negro: 76,1% (n=294)
+Mulher cis, negra: 64,2% (n=350) | Mulher cis, branca: 67,7% (n=703)
+3.1.5 Leitura etária (18–24 | 25–39 | 40+)
+25–39 concentram as maiores taxas de vitimização (≈ 78–81%).
+18–24 têm a maior presença de ocorrências em escola/universidade (55%) e internet/redes (28%).
+40+ aparece relativamente mais em trabalho (45%) e via pública/transporte (59%).
+Que tipo de violência atinge mais cada grupo
+Trans (mulheres e homens): picos de física (28–32%) e sexual (20–27%), com institucional elevada (20–28%).
+Não-binárie+: verbal/psicológica muito altas (92%/61%) e institucional (25%).
+Cis: verbal/psicológica predominam; física/sexual menores que em trans.
+Por raça:
+Indígena: níveis muito altos em verbal (95%) e física (38%) — interpretar com cautela (n=21).
+Amarela/Asiática: psicológica 69%, física 27%, institucional 27% (n=40).
+Branca/Negra: perfis muito próximos nas taxas totais; diferenças aparecem mais na distribuição por locais e no tipo institucional.
+3.1.6 Onde acontece mais (por identidade — % entre vítimas)
+Mulher trans: via pública/transporte 64%, família/lar 43%, trabalho 42%, escola/universidade 37%.
+Homem trans: família/lar 60%, via pública/transporte 56%, trabalho 44%, escola/universidade 40%.
+Não-binárie+: família/lar 74%, via pública/transporte 61%, escola/universidade 60%, trabalho 44%.
+Mulher cis: família/lar 53%, via pública/transporte 49%, escola/universidade 42%, trabalho 33%.
+Homem cis: via pública/transporte 52%, família/lar 47%, trabalho 43%, escola/universidade 29%.
+3.1.7 Leituras-chave de local
+Família/lar e via pública/transporte são os dois vetores mais críticos em quase todos os grupos.
+Escola/universidade pesa mais entre 18–24 e não-binárie+.
+Trabalho ganha peso em 25–39 e 40+; entre trans, o trabalho aparece sistematicamente mais do que entre mulheres cis.
+Denúncia e busca de ajuda (entre quem sofreu)
+Denúncia formal é baixa no agregado (6,4%), porém, maior entre pessoas trans
+Mulher trans: 14,2% | Homem trans: 13,7% | Não-binárie+: 9,8%
+Mulher cis: 3,2%, Homem cis: 6,8%
+Busca informal (rede de apoio) é parecida entre grupos (≈ 7–10%), levemente maior em mulher trans (10%) e homem cis (9,4%).
+Não buscou ajuda supera 60% em todos os grupos; “não sabia que era possível” aparece em 4,2% dos relatos — indicador claro de barreira de informação/acesso.
+3.2 Interpretações e implicações
+Trans (mulheres e homens) concentram as maiores incidências e os maiores percentuais de violência física e sexual, com violações institucionais acima da média. Isso exige respostas intersetoriais (segurança pública, trabalho, saúde, educação) com priorização desse público.
+Família/lar como principal locus de violência impõe protocolos territoriais (CRAS/CREAS, rede escolar e saúde mental) focados em mediação, proteção e acolhimento — sobretudo para jovens 18–24 e pessoas não-binárias.
+Trabalho cresce com a idade; recomenda-se fiscalização antidiscriminatória, formação de gestores e canais de denúncia mais conhecidos/efetivos nas empresas da região (indústria/serviços).
+Baixa denúncia e desconhecimento dos canais evidenciam necessidade de campanhas de informação (com linguagem acessível, por cidade/bairro) e ponte ativa com Delegacias/Decradi, Defensoria, Centros de Cidadania LGBT e Ouvidorias.
+Raça: apesar de taxas totais próximas entre brancas e negras, há sinais de maior institucionalização da violência em negres e amareles/asiátiques e picos preocupantes em indígenas (interpretar com cautela por N pequeno). As respostas precisam ser racialmente orientadas (territórios, acesso a direitos e canais de denúncia).
+Ambiente escolar/universitário permanece crítico entre jovens; protocolos de combate ao bullying LGBTfóbico e programas de diversidade em faculdades do ABC devem ser priorizados.
+3.2.1 Quem mais sofre (incidência de ao menos 1 violência)
+Geral (18+): 2.231 pessoas; 74,5% relataram violência/discriminação.
+Por identidade de gênero
+Homem trans: 93,9% (n=180)
+Mulher trans (inclui travesti): 93,3% (n=127)
+Não-binárie+: 82,6% (n=178)
+Homem cis: 77,3% (n=677)
+Mulher cis: 67,5% (n=1.069)
+Por raça/cor
+Indígena: 95,2% (n=21) (cautela: N pequeno)
+Amarela/Asiática: 77,5% (n=40)
+Branca: 74,6% (n=1.372)
+Negra (preta+parda): 74,2% (n=791)
+3.2.2 Por orientação sexual (normalizada)
+Lésbica: 78,1% (n=654)
+Gay/Homossexual: 77,2% (n=262)
+Bi/Pan: 76,7% (n=943)
+Queer/Outra: 76,1% (n=92)
+Assexual/Arromântica: 73,7% (n=19) (cautela)
+Heterossexual: 49,0% (n=252)
+3.2.3 Intersecções críticas (n ≥ 30)
+Mulher trans, branca: 100% (n=49) | Mulher trans, negra: 88,9% (n=63)
+Homem trans, negro: 94,8% (n=58) | Homem trans, branco: 92,6% (n=94)
+Não-binárie+, negra: 81,0% (n=79) | Não-binárie+, branca: 79,6% (n=93)
+Homem cis, branco: 80,7% (n=374) | Homem cis, negro: 76,1% (n=294)
+Mulher cis, negra: 64,2% (n=350) | Mulher cis, branca: 67,7% (n=703)
+Leitura etária: 25–39 anos concentram taxas mais altas (~78–81%). Jovens 18–24 têm mais ocorrências ligadas à escola/universidade e internet.
+3.3 Que tipo de violência pesa mais por grupo
+Top tipos (entre vítimas, multi-marcação): verbal 89%, psicológica 53%, física 18,6%, institucional 14,4%, sexual 14,1%.
+Trans (mulheres e homens): picos de física (≈28–32%) e sexual (≈20–27%), além de institucional mais alta (≈20–28%).
+Não-binárie+: verbal (≈92%) e psicológica (≈61%) muito elevadas; institucional (≈25%).
+Cis (mulheres e homens): prevalecem verbal/psicológica; física/sexual abaixo dos níveis observados em trans.
+Por raça:
+Indígena: verbal ~95% e física ~38% (N pequeno, interpretar com cautela).
+Amarela/Asiática: psicológica ~69%, física ~27%, institucional ~27%.
+Branca x Negra: incidências totais próximas; diferenças aparecem mais nos locais e na institucional.
+3.4 Onde ocorre mais (entre vítimas)
+Principais locais: família/lar ~52%, via pública/transporte ~52%, escola/universidade ~43%, trabalho ~38% (demais: internet ~14%, comércio/lazer ~11%, saúde ~7%, religião ~4%, segurança pública ~4%).
+Mulher trans: via pública/transporte 64%, trabalho 42%, família 43%.
+Homem trans: família 60%, via pública 56%, trabalho 44%.
+Não-binárie+: família 74%, via pública 61%, escola 60%, trabalho 44%.
+Mulher cis: família 53%, via pública 49%, escola 42%, trabalho 33%.
+Homem cis: via pública 52%, família 47%, trabalho 43%, escola 29%.
+Idade e local:
+18–24: mais escola/universidade (≈55%) e internet/redes (≈28%).
+40+: mais trabalho (≈45%) e via pública (≈59%).
+3.5 Quem mais denúncia e busca ajuda (entre vítimas)
+Denúncia formal (geral): 6,4%.
+Mulher trans: 14,2% | Homem trans: 13,7% | Não-binárie+: 9,8%
+Homem cis: 6,8% | Mulher cis: 3,2%
+Busca de apoio informal: ~7–10% (ligeiramente maior em mulher trans e homem cis).
+Não buscou ajuda: 62,9%; 4,2% disseram “não sabia que era possível denunciar” → barreira de informação/acesso.
+4. Leituras-chave (ação pública e advocacy)
+Prioridade imediata: pessoas trans (mulheres e homens) — maior incidência, com violência física/sexual e institucional acima da média; foco intersetorial (segurança, trabalho, saúde, educação).
+Família/lar e via pública são os principais vetores → protocolos territoriais (CRAS/CREAS, escolas, CAPS/atenção básica, patrulhas comunitárias, iluminação/transporte).
+Trabalho pesa mais com a idade → compliance antidiscriminatório, canais de denúncia claros e formação de gestores nas empresas/serviços do ABC.
+Escola/universidade (18–24, não-binárie+) → políticas anti-bullying, mediação e centros de referência estudantil.
+Raça: apesar de incidências totais próximas entre brancas e negras, sinais de maior institucionalização e de exposição física em povos indígenas e em amarelos/asiáticos pedem recortes raciais e territoriais nas ações.
+Baixa denúncia e desconhecimento de canais → campanhas locais, parceria com Centros de Cidadania LGBT, Defensoria/MP, Ouvidorias, Decradi e serviços municipais.
+
+
+
+
+
+
+
+
+
+
+
+CONCLUSÃO
+A realização da Pesquisa Censitária LGBTQIAPN+ do Grande ABC evidencia não apenas a urgência de dados consistentes para subsidiar políticas públicas, mas também a necessidade de repensar a cidadania em chave crítica e transgressora, como já indicado em estudos anteriores (PINHEIRO, 2020). Ao adotar três eixos — perfil sociodemográfico, participação política e vitimização por LGBTfobia —, o levantamento demonstra que a desigual distribuição da vulnerabilidade não se limita à ausência de direitos formais, mas se inscreve nos corpos e nas trajetórias das pessoas LGBTQIAPN+, confirmando o que Foucault (1984) conceitua como o biopoder: dispositivos que regulam, disciplinam e controlam populações inteiras a partir de marcadores de gênero, sexualidade, raça e classe.
+Judith Butler (2015), por sua vez, lembra que a vida torna-se precária quando não é reconhecida como digna de luto. Os dados da pesquisa regional deixam claro que, no Grande ABC, ainda há corpos enquadrados fora do espectro da inteligibilidade social, sujeitos a violências físicas, simbólicas e institucionais. A ausência de políticas transversais e intersetoriais — que integrem saúde, educação, assistência social e segurança — reforça a marginalização desses sujeitos, restringindo sua agência política e sua possibilidade de existência plena.
+A conjugação dos dados censitários com os referenciais teóricos aqui mobilizados sugere a necessidade de elaboração de Planos Municipais e um Plano Regional de Políticas de Diversidade Sexual e de Gênero. Esses planos devem transcender a atuação exclusiva do poder público, incorporando a sociedade civil organizada, o movimento LGBTQIAPN+, a iniciativa privada e setores estratégicos que operam como primeira linha de contato com a população — escolas, unidades básicas de saúde, CRAS e serviços de proteção social.
+Adicionalmente, é urgente a ampliação do escopo etário da pesquisa, contemplando jovens a partir de 16 anos. Essa inclusão permitirá analisar de forma mais acurada as experiências escolares, a entrada no mercado de trabalho e os primeiros contatos com situações de discriminação, oferecendo subsídios para políticas de proteção específicas.
+Em síntese, a pesquisa revela que os constrangimentos vividos pela população LGBTQIAPN+ do Grande ABC não podem ser tratados como exceções, mas como expressões locais de dinâmicas globais de sujeição. Retomar a concepção de cidadania crítica, como elaborada por Pinheiro (2020), significa compreender que a resistência emerge justamente das margens e que é da articulação entre movimentos sociais, poder público e redes comunitárias que podem nascer novas práticas de reconhecimento e redistribuição.
+Assim, cabe à região do ABC assumir protagonismo, transformando a pesquisa em plataforma para políticas estruturantes que não apenas respondam às precariedades evidenciadas, mas também instituam formas de garantir a permanência, a proteção e a valorização da diversidade como princípio inegociável da vida democrática.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+AKOTIRENE, Carla. Interseccionalidade. Coleção Feminismos Plurais, São Paulo: Pólen, 2019.    
+CRENSHAW, Kimberlé. Demarginalizing the Intersection of Race and Sex. University of Chicago Legal Forum, vol. 1989, n.º 1, p. 139–167, 1989.
+FOUCAULT, Michel. História da sexualidade I: A vontade de saber. Rio de Janeiro: Graal, 1988.
+BUTLER, Judith. Problemas de gênero: feminismo e subversão da identidade. Rio de Janeiro: Civilização Brasileira, 2003.
+BUTLER, Judith. Corpos em aliança e a política das ruas: notas para uma teoria performativa de assembleia. Rio de Janeiro: Civilização Brasileira, 2018.
+PINHEIRO, Carlos Vinícius Silva. Construção crítica de cidadania de identidades transgressoras: experiências de educação popular da UNEafro Brasil nas políticas LGBTQIA+ da cidade de São Paulo. Dissertação de mestrado (Mestrado), UFABC, defendida em 10 de maio de 2021.  
+
